@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="../assets/BlackWriting_Horizontal.png" width="300">
+  <a href="https://mcw.marquette.edu/biomedical-engineering/neuromotor-control-lab/">
+    <img src="../assets/BlackWriting_Horizontal.png" width="300">
+  </a>
 </p>
 
 # Welcome to the NeuroMotor Control Laboratory
