@@ -19,5 +19,6 @@ Visit our [lab's website](https://mcw.marquette.edu/biomedical-engineering/neuro
 This org contains repositories used in current and past research. While this org is used to manage active projects, we also host public repositories of completed studies and helpful utilities.
 
 # Our Public Utility Libraries
+Feel free to browse our collection of general-purpose helper functions:
 - [MATLAB](https://github.com/nmcl-marquette/matlab-utils)
 
