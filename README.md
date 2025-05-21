@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="assets/BlackWriting_Horizontal.png" width="300">
+</p>
 
 # Welcome to the NeuroMotor Control Laboratory
 
