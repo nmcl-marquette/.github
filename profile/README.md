@@ -20,5 +20,5 @@ This org contains repositories used in current and past research. While this org
 
 # Our Public Utility Libraries
 Feel free to browse our collection of general-purpose helper functions:
-- [MATLAB](https://github.com/nmcl-marquette/matlab-utils)
+- [MATLAB](https://github.com/nmcl-marquette/matlab-utils) `matlab-utils`
 
