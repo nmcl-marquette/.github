@@ -1,6 +1,11 @@
+
 <p align="center">
-  <a href="https://mcw.marquette.edu/biomedical-engineering/neuromotor-control-lab/">
-    <img src="../assets/BlackWriting_Horizontal.png" width="400">
+  <a href="https://mcw.marquette.edu/biomedical-engineering/neuromotor-control-lab/" target="_blank" title="Visit our university website">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="../assets/Horizontal_WhiteWriting.png">
+      <source media="(prefers-color-scheme: light)" srcset="../assets/BlackWriting_Horizontal.png">
+      <img alt="lab logo" src="../assets/BlackWriting_Horizontal.png" width="400">
+    </picture>
   </a>
 </p>
 
