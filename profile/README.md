@@ -4,7 +4,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="../assets/Horizontal_WhiteWriting.png">
       <source media="(prefers-color-scheme: light)" srcset="../assets/BlackWriting_Horizontal.png">
-      <img alt="lab logo" src="../assets/BlackWriting_Horizontal.png" width="400">
+      <img alt="lab logo" src="../assets/BlackWriting_Horizontal.png" width="500">
     </picture>
   </a>
 </p>
