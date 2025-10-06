@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://mcw.marquette.edu/biomedical-engineering/neuromotor-control-lab/" target="_blank" title="Visit our university website">
+  <a href="https://mcw.marquette.edu/biomedical-engineering/neuromotor-control-lab/" title="Visit our university website (opens in same tab)">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="../assets/Horizontal_WhiteWriting.png">
       <source media="(prefers-color-scheme: light)" srcset="../assets/BlackWriting_Horizontal.png">
